@@ -63,7 +63,7 @@ const CutoffTable = () => {
                         </tr>
                         <tr style={{ height: '16pt' }}>
                             <td style={{ width: '42pt', border: '1pt solid #CCCCCC' }}>
-                                <p className="s1" style={{ paddingTop: '1pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>General</p>
+                                <p className="s1" style={{ paddingTop: '1pt', paddingLeft: '1pt', textIndent: '0pt', textAlign: 'left' }}>OBC</p>
                             </td>
                             <td style={{ width: '76pt', border: '1pt solid #CCCCCC' }}>
                                 <p className="s2" style={{ paddingTop: '2pt', paddingLeft: '2pt', textIndent: '0pt', textAlign: 'left' }}>40ᵗʰ Percentile</p>
